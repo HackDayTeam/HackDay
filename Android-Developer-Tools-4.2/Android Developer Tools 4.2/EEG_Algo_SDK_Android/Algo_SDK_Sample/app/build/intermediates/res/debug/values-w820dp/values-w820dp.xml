@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/donald/Documents/EEG%20Algo%20SDK%20Release/EEG_Algo_SDK_Android_v2.9.2/Algo_SDK_Sample/app/src/main/res/values-w820dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>

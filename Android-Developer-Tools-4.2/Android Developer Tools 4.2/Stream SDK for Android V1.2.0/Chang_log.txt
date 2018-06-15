@@ -1,0 +1,39 @@
+[v1.2.0]
+2016-06-30
+1. add support of MindWave Mobile 1.5
+2. add function MWM15_getFilterType
+3. add function MWM15_setFilterType
+4. add Mind data type CODE_FILTER_TYPE
+
+[v1.1.0]
+2015-12-3
+1. fix bug #1906 High Theta value in android EEG Library
+
+[v1.0.5]
+2015-08-12
+1. sample project update
+2. documents update
+3. Merge Mind and Body part to one package
+
+[v1.0.4]
+2015-07-01
+1. sample project update
+2. documents update
+
+[v1.0.3]
+2015-06-17
+1. remove SerialJNI_open and SerialJNI_close from public methods
+2. bug fix
+3. documents update
+
+[v1.0.2]
+2015-06-03
+1.add a stop() call in close() to avoid the scene that only call close() lead to working thread is running but input stream is shut down.
+2.add a check to avoid muti log process 
+3.change the log path from /sdcard/neruosky/Console/ to /sdcard/neruosky/Console_log/
+
+[v1.0.1]
+1.add save log to file function: redirectConsoleLogToDocumentFolder() stopConsoleLog()
+
+[v1.0.0]
+base version
